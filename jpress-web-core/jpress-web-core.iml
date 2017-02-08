@@ -33,6 +33,7 @@
     <orderEntry type="library" name="Maven: cglib:cglib-nodep:3.1" level="project" />
     <orderEntry type="library" name="Maven: com.jfinal:jfinal-weixin:1.7" level="project" />
     <orderEntry type="library" name="Maven: net.sf.ehcache:ehcache:2.10.2.2.21" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.21" level="project" />
     <orderEntry type="module" module-name="jpress-model" />
     <orderEntry type="library" name="Maven: com.alibaba:druid:1.0.22" level="project" />
     <orderEntry type="module-library">
