@@ -51,6 +51,7 @@
 			<type>war</type>
 			<scope>compile</scope>
 		</dependency>
+
 		<dependency>
 			<groupId>io.jpress</groupId>
 			<artifactId>jpress-web-template-imperfect</artifactId>
