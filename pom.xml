@@ -3,29 +3,29 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>io.jpress</groupId>
-	<artifactId>jpress</artifactId>
+	<groupId>com.cybertech.web</groupId>
+	<artifactId>bootfinal</artifactId>
 	<version>1.0</version>
 	<packaging>pom</packaging>
 
-	<url>http://jpress.io</url>
+	<url>http://bootfinal.io</url>
 
 	<modules>
-		<module>jpress-web</module>
-		<module>jpress-oauth2</module>
-		<module>jpress-message</module>
-		<module>jpress-search-api</module>
-		<module>jpress-search-dbsimple</module>
-		<module>jpress-addon-helloworld</module>
-		<module>jpress-model</module>
-		<module>jpress-commons</module>
-		<module>jpress-web-template-jblog</module>
-		<module>jpress-web-template-the3</module>
-		<module>jpress-web-template-imperfect</module>
-		<module>jpress-web-core</module>
-		<module>jpress-web-admin</module>
-		<module>jpress-web-front</module>
-		<module>jpress-cache</module>
+		<module>bootfinal-web</module>
+		<module>bootfinal-oauth2</module>
+		<module>bootfinal-message</module>
+		<module>bootfinal-search-api</module>
+		<module>bootfinal-search-dbsimple</module>
+		<module>bootfinal-addon-helloworld</module>
+		<module>bootfinal-model</module>
+		<module>bootfinal-commons</module>
+		<module>bootfinal-web-template-jblog</module>
+		<module>bootfinal-web-template-the3</module>
+		<module>bootfinal-web-template-imperfect</module>
+		<module>bootfinal-web-core</module>
+		<module>bootfinal-web-admin</module>
+		<module>bootfinal-web-front</module>
+		<module>bootfinal-cache</module>
 	</modules>
 
 

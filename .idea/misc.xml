@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/bootfinal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/bootfinal-web-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/bootfinal-web-core" />
+    <file type="web" url="file://$PROJECT_DIR$/bootfinal-web-front" />
+    <file type="web" url="file://$PROJECT_DIR$/bootfinal-web-template-imperfect" />
+    <file type="web" url="file://$PROJECT_DIR$/bootfinal-web-template-jblog" />
+    <file type="web" url="file://$PROJECT_DIR$/bootfinal-web-template-the3" />
     <file type="web" url="file://$PROJECT_DIR$/jpress-web" />
     <file type="web" url="file://$PROJECT_DIR$/jpress-web-admin" />
     <file type="web" url="file://$PROJECT_DIR$/jpress-web-core" />

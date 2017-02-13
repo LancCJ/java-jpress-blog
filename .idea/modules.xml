@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-addon-helloworld/bootfinal-addon-helloworld.iml" filepath="$PROJECT_DIR$/bootfinal-addon-helloworld/bootfinal-addon-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-cache/bootfinal-cache.iml" filepath="$PROJECT_DIR$/bootfinal-cache/bootfinal-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-commons/bootfinal-commons.iml" filepath="$PROJECT_DIR$/bootfinal-commons/bootfinal-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-message/bootfinal-message.iml" filepath="$PROJECT_DIR$/bootfinal-message/bootfinal-message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-model/bootfinal-model.iml" filepath="$PROJECT_DIR$/bootfinal-model/bootfinal-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-oauth2/bootfinal-oauth2.iml" filepath="$PROJECT_DIR$/bootfinal-oauth2/bootfinal-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-search-api/bootfinal-search-api.iml" filepath="$PROJECT_DIR$/bootfinal-search-api/bootfinal-search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-search-dbsimple/bootfinal-search-dbsimple.iml" filepath="$PROJECT_DIR$/bootfinal-search-dbsimple/bootfinal-search-dbsimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-web/bootfinal-web.iml" filepath="$PROJECT_DIR$/bootfinal-web/bootfinal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-web-admin/bootfinal-web-admin.iml" filepath="$PROJECT_DIR$/bootfinal-web-admin/bootfinal-web-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-web-core/bootfinal-web-core.iml" filepath="$PROJECT_DIR$/bootfinal-web-core/bootfinal-web-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-web-front/bootfinal-web-front.iml" filepath="$PROJECT_DIR$/bootfinal-web-front/bootfinal-web-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-web-template-imperfect/bootfinal-web-template-imperfect.iml" filepath="$PROJECT_DIR$/bootfinal-web-template-imperfect/bootfinal-web-template-imperfect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-web-template-jblog/bootfinal-web-template-jblog.iml" filepath="$PROJECT_DIR$/bootfinal-web-template-jblog/bootfinal-web-template-jblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootfinal-web-template-the3/bootfinal-web-template-the3.iml" filepath="$PROJECT_DIR$/bootfinal-web-template-the3/bootfinal-web-template-the3.iml" />
       <module fileurl="file://$PROJECT_DIR$/jpress.iml" filepath="$PROJECT_DIR$/jpress.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-addon-helloworld/jpress-addon-helloworld.iml" filepath="$PROJECT_DIR$/jpress-addon-helloworld/jpress-addon-helloworld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-cache/jpress-cache.iml" filepath="$PROJECT_DIR$/jpress-cache/jpress-cache.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-commons/jpress-commons.iml" filepath="$PROJECT_DIR$/jpress-commons/jpress-commons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-message/jpress-message.iml" filepath="$PROJECT_DIR$/jpress-message/jpress-message.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-model/jpress-model.iml" filepath="$PROJECT_DIR$/jpress-model/jpress-model.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-oauth2/jpress-oauth2.iml" filepath="$PROJECT_DIR$/jpress-oauth2/jpress-oauth2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-search-api/jpress-search-api.iml" filepath="$PROJECT_DIR$/jpress-search-api/jpress-search-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-search-dbsimple/jpress-search-dbsimple.iml" filepath="$PROJECT_DIR$/jpress-search-dbsimple/jpress-search-dbsimple.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-web/jpress-web.iml" filepath="$PROJECT_DIR$/jpress-web/jpress-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-web-admin/jpress-web-admin.iml" filepath="$PROJECT_DIR$/jpress-web-admin/jpress-web-admin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-web-core/jpress-web-core.iml" filepath="$PROJECT_DIR$/jpress-web-core/jpress-web-core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-web-front/jpress-web-front.iml" filepath="$PROJECT_DIR$/jpress-web-front/jpress-web-front.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-web-template-imperfect/jpress-web-template-imperfect.iml" filepath="$PROJECT_DIR$/jpress-web-template-imperfect/jpress-web-template-imperfect.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-web-template-jblog/jpress-web-template-jblog.iml" filepath="$PROJECT_DIR$/jpress-web-template-jblog/jpress-web-template-jblog.iml" />
-      <module fileurl="file://$PROJECT_DIR$/jpress-web-template-the3/jpress-web-template-the3.iml" filepath="$PROJECT_DIR$/jpress-web-template-the3/jpress-web-template-the3.iml" />
     </modules>
   </component>
 </project>

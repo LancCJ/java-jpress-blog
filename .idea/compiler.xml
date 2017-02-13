@@ -6,24 +6,39 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jpress-addon-helloworld" />
-        <module name="jpress-cache" />
-        <module name="jpress-commons" />
-        <module name="jpress-message" />
-        <module name="jpress-model" />
-        <module name="jpress-oauth2" />
-        <module name="jpress-search-api" />
-        <module name="jpress-search-dbsimple" />
-        <module name="jpress-web" />
-        <module name="jpress-web-admin" />
-        <module name="jpress-web-core" />
-        <module name="jpress-web-front" />
-        <module name="jpress-web-template-imperfect" />
-        <module name="jpress-web-template-jblog" />
-        <module name="jpress-web-template-the3" />
+        <module name="bootfinal-addon-helloworld" />
+        <module name="bootfinal-cache" />
+        <module name="bootfinal-commons" />
+        <module name="bootfinal-message" />
+        <module name="bootfinal-model" />
+        <module name="bootfinal-oauth2" />
+        <module name="bootfinal-search-api" />
+        <module name="bootfinal-search-dbsimple" />
+        <module name="bootfinal-web" />
+        <module name="bootfinal-web-admin" />
+        <module name="bootfinal-web-core" />
+        <module name="bootfinal-web-front" />
+        <module name="bootfinal-web-template-imperfect" />
+        <module name="bootfinal-web-template-jblog" />
+        <module name="bootfinal-web-template-the3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="bootfinal-addon-helloworld" target="1.7" />
+      <module name="bootfinal-cache" target="1.7" />
+      <module name="bootfinal-commons" target="1.7" />
+      <module name="bootfinal-message" target="1.7" />
+      <module name="bootfinal-model" target="1.7" />
+      <module name="bootfinal-oauth2" target="1.7" />
+      <module name="bootfinal-search-api" target="1.7" />
+      <module name="bootfinal-search-dbsimple" target="1.7" />
+      <module name="bootfinal-web" target="1.7" />
+      <module name="bootfinal-web-admin" target="1.7" />
+      <module name="bootfinal-web-core" target="1.7" />
+      <module name="bootfinal-web-front" target="1.7" />
+      <module name="bootfinal-web-template-imperfect" target="1.7" />
+      <module name="bootfinal-web-template-jblog" target="1.7" />
+      <module name="bootfinal-web-template-the3" target="1.7" />
       <module name="jpress" target="1.5" />
       <module name="jpress-addon-helloworld" target="1.7" />
       <module name="jpress-cache" target="1.7" />
